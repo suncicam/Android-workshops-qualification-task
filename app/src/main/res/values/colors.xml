@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#8F58E7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorYellowPastel">#E7E358</color>
+    <color name="colorPinkPastel">#FF5733</color>
+    <color name="colorBluePastel">#81CFE0</color>
+    <color name="colorGreenPastel">#03C9A9</color>
+    <color name="colorRedPastel">#CF000F</color>
+    <color name="colorOrangePastel">#FF5733</color>
+
+</resources>

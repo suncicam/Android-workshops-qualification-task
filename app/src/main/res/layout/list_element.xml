@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/element_layout">
+
+    <TextView
+        android:id="@+id/todotext"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:textSize="22dp" />
+
+    <CheckBox
+        android:id="@+id/taskdone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:focusable="false"
+        android:clickable="false"
+        android:focusableInTouchMode="false"/>
+
+</LinearLayout>
